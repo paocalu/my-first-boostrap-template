@@ -1,0 +1,21 @@
+.rebajas {
+  text-decoration: line-through;
+  color: darkgrey;
+}
+.card-body {
+  align-items: center;
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
+.jumbotron {
+  background-color: rgb(26, 33, 39);
+}
+.display-4 {
+  color: white;
+  font-weight: bolder;
+}
+.lead {
+  color: rgb(172, 172, 172);
+}
